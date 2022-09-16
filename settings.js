@@ -36,15 +36,15 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['212609493719'] //ur owner number
+global.vcardowner = ['97691213174'] //ur owner number
 global.ownername = "ᴋɪɴɢ ᴅᴀʀᴋ ᴀʟᴘʜᴀ" //ur owner name
 global.ytname = "YT: TGM Arcade" //ur yt chanel name
 global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
 global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['212609493719']
-global.ownertag = '212609493719' //ur tag number
+global.owner = ['97691213174']
+global.ownertag = '97691213174' //ur tag number
 global.botname = 'LO9MANE X MARRAKECH EDITION' //ur bot name
 global.ig = "https://youtu.be/kIwbcOHeAbs" //your theme url which will be displayed on whatsapp
 global.myweb = "https://youtu.be/kIwbcOHeAbs" //ur website to be displayed
@@ -67,7 +67,7 @@ global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
 
 //DATA BASED
 
-global.premium = ['212609493719'] //ADD YOU NUMBER
+global.premium = ['97691213174'] //ADD YOU NUMBER
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -93,16 +93,16 @@ global.antitags = true
 global.prefa = ['','!','.']
 global.sp = '⭔'
 global.mess = {
-    success: '✉️✏️ _Done_',
-    admin: '✉️✏️ _This Feature Is Only For Admin!_',
-    botAdmin: '✉️✏️ _Bot Must Be Admin First!_',
-    owner: '✉️✏️ _This Feature Is Only For Owner!_',
-    group: '✉️✏️ _Feature Used Only For Groups!_',
+    success: '✉️✏️ _تم ماعلينا_',
+    admin: '✉️✏️ _هاد لميزة خاصة هير بلأدمين اصاط هه!_',
+    botAdmin: '✉️✏️ _هاد لميزة خاصة هيࢪ بلأدمين اصاط!_',
+    owner: '✉️✏️ _هاد لميزة اصاط خاصة بيا هير انا!_',
+    group: '✉️✏️ _هادي خـاصـة هـيـࢪ بـالڪـࢪوبـات مـاشـي خاص!_',
     private: '✉️✏️ _Features Used Only For Private Chat!_',
-    bot: '✉️✏️ _This Feature Is Only For Bot_',
-    wait: '✉️✏️ _Processing Please Wait..._',
-    linkm: '📧✏️ _Where is the link?_',
-    error: '✉️🤕 ```Error!!```',
+    bot: '✉️✏️ _هـادي خـاصـة بـيـا هـيـࢪ انــا هه_',
+    wait: '✉️✏️ _تـسـنـا لـحـفـضـڪ صـافـي..._',
+    linkm: '📧✏️ _فـيـنـاهـو لـيـان?_',
+    error: '✉️🤕 ```خـطـأ!!```',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
