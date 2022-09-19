@@ -54,10 +54,10 @@ global.reactmoji = "😻" //ur menu react emoji
 global.themeemoji = "🚀" //ur theme emoji
 global.packname = "حنا لمࢪاڪشين مهيبين عليڪم😻" //ur sticker watermark packname
 global.author = "لقمان لمࢪاڪشي😻" //ur sticker watermark author
-global.aliveimg ="https://telegra.ph/file/f9d521b848882cc558ce9.jpg"
-global.allmenuimg ="https://telegra.ph/file/f9d521b848882cc558ce9.jpg"
-global.welcomeimg= "https://telegra.ph/file/f9d521b848882cc558ce9.jpg"
-global.gbyeimg = "https://telegra.ph/file/f9d521b848882cc558ce9.jpg"
+global.aliveimg ="https://telegra.ph/file/7539a62cfcaa2e2f6de32.jpg"
+global.allmenuimg ="https://telegra.ph/file/7539a62cfcaa2e2f6de32.jpg"
+global.welcomeimg= "https://telegra.ph/file/7539a62cfcaa2e2f6de32.jpg"
+global.gbyeimg = "https://telegra.ph/file/7539a62cfcaa2e2f6de32.jpg"
 
 //BOT MEDIAS
 global.thum = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
